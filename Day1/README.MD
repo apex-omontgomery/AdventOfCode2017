@@ -36,4 +36,4 @@ Now, instead of considering the next digit, it wants you to consider the digit h
 _* denote additional test_
 
 ## Input
-[input](https://github.com/wimo7083/AdventOfCode2017/Day 1/input.txt )
+[input](https://github.com/wimo7083/AdventOfCode2017/Day1/input.txt )
