@@ -1,0 +1,1 @@
+Thinking this is just a simple iteration of rows, and finding the minimum and max for each row.
